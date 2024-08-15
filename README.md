@@ -5,8 +5,10 @@ Software Engineer and Embedded system Engineer
 -------------------------------------
 
 - 🌱 I’m currently learning RESTful API
+- ✅ I have some experience with MCU control (SPI、IIC、UART、GPIO)
+- 👯 Develop algorithms for image processing
 
-  
+-------------------------------------
 -->Research Interests: Embedded Systems, Machine Learning, MicroController Unit, Internet-of-Things and Image Processing.
 
 ### Skills
