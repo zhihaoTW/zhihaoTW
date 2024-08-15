@@ -1,10 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zhihao Chen
+Hi My name is Zhihao Chen
 ===================================================================================================================================
 
-Software Engineer and Embedded system
+Software Engineer and Embedded system Engineer
 -------------------------------------
 
-I've been learning to code, I start with STM32 programing
+- 🌱 I’m currently learning RESTful API
+
+  
+-->Research Interests: Embedded Systems, Machine Learning, MicroController Unit, Internet-of-Things and Image Processing.
 
 ### Skills
 
