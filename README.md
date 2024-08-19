@@ -4,7 +4,7 @@ Hi My name is Zhihao Chen
 Software Engineer and Embedded system Engineer
 -------------------------------------
 
-- 🌱 I’m currently learning RESTful API
+- 🌱 I’m currently learning Labview
 - ✅ I have some experience with MCU control (SPI、IIC、UART、GPIO)
 - 👯 Develop algorithms for image processing
 
