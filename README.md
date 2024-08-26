@@ -8,6 +8,10 @@ Software Engineer and Embedded system Engineer
 - ✅ I have some experience with MCU control (SPI、IIC、UART、GPIO)
 - 👯 Develop algorithms for image processing
 
+### Tool
+
+OCR ：tesseract
+
 -------------------------------------
 -->Research Interests: Embedded Systems, Machine Learning, MicroController Unit, Internet-of-Things and Image Processing.
 
